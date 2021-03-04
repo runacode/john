@@ -1,7 +1,7 @@
-<?php $company = "WALDON AUTOMOTIVE SERVICE";
-$phone = "(812) 537-1865";
-	$address1 = "348 W EADS PKWY";
-	$address2 = "LAWRENCEBURG, IN 47025";
+<?php $company = "John's Auto Clinic";
+$phone = "(219) 933-4440";
+	$address1 = "3800 Hohman Ave";
+	$address2 = "Hammond, IN, 46327";
 ?>
 <!DOCTYPE html>
 <html style="font-size: 16px;">
